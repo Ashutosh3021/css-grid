@@ -15,7 +15,7 @@ body{
 .blue{
     grid-row:span 2;
     grid-column: span 2;
-    background-image: url(image/bg-pattern-quotation.svg) ;
+    background-image: url(./bg-pattern-quotation.svg) ;
     background-repeat: no-repeat;
     background-position: top right;
     background-color: hsl(263, 55%, 52%);
